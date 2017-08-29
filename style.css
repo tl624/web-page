@@ -1,5 +1,11 @@
+
 body{
   background-color: cyan;
   font-size: 24px;
   color: black;
+}
+head {
+  background-color: blue;
+    font-size: 16px;
+  color: green
 }
